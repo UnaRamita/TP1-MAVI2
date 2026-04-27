@@ -1,0 +1,16 @@
+﻿  Box.cpp
+C:\Users\Zelmar\Dropbox\Mi PC (DESKTOP-9GGJTG1)\Desktop\Facu Programacion\Año 2 C1\MAVI 2\TP1\source\Box.cpp(38,8): warning C4458: la declaración de 'angle' oculta el miembro de clase
+      C:\Users\Zelmar\Dropbox\Mi PC (DESKTOP-9GGJTG1)\Desktop\Facu Programacion\Año 2 C1\MAVI 2\TP1\source\Box.h(29,8):
+      vea la declaración de 'box::angle'
+  
+  BoxPreview.cpp
+  Game.cpp
+  main.cpp
+  PhysicsManager.cpp
+  StaticObjects.cpp
+  Generando código...
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  RaylibTemplate.vcxproj -> C:\Users\Zelmar\Dropbox\Mi PC (DESKTOP-9GGJTG1)\Desktop\Facu Programacion\Año 2 C1\MAVI 2\TP1\source\x64\Debug\RaylibTemplate.exe
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
